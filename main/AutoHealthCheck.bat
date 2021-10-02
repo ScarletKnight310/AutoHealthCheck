@@ -1,2 +1,5 @@
-cd C:\Users\Kashod Cagnolatti\Desktop\Projects\Python\AutoHealthCheck\main
+setlocal
+set mypath = %cd%
+cd %mypath%
+endlocal
 python main.py
