@@ -48,5 +48,5 @@ auto.press('tab')
 auto.write(c.lastN)
 
 # Finish
-auto.press('tab')           
+auto.press('tab')
 # auto.press('enter')
