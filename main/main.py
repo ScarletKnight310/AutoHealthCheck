@@ -3,6 +3,7 @@ import content as c
 import pyautogui as auto
 import webbrowser
 
+# clicking webpage options, so you don't have to :)
 webbrowser.open(c.url, 2)
 time.sleep(c.brLoadTime)  # Delay to open page, login
 
